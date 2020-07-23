@@ -1,0 +1,7 @@
+@url = http://localhost:8080/
+
+###
+GET {{url}}/graphql?query={user(id:"1"){name}}
+
+
+###
